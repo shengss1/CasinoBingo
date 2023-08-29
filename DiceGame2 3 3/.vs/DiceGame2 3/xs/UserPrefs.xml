@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{4BDE6949-A261-7FAB-4F17-33B6B2BC7BD6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_GachaPanel.cs">
+    <Files>
+      <File FileName="Assets/MiddleGround/Resources/BingoAssets/Scripts/GetSingleRewardPanel.cs" Line="401" Column="16" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_DiceSlots.cs" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_DiceReward.cs" Line="483" Column="84" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_LoadingPanel.cs" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_GuidGift.cs" Line="17" Column="35" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_Sign_Day.cs" Line="40" Column="1" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_Sign.cs" Line="188" Column="18" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_Manager.cs" Line="23" Column="49" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_GamePanel_Dice.cs" Line="626" Column="103" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_Pop_GuidePanel.cs" Line="386" Column="41" />
+      <File FileName="Assets/MiddleGround/Resources/BingoAssets/Scripts/Modern_GamePanel.cs" Line="2146" Column="10" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_AudioManager.cs" Line="22" Column="40" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_GachaPanel.cs" Line="137" Column="39" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_MenuPanel.cs" Line="180" Column="72" />
+      <File FileName="Assets/MiddleGround/Modern_Scripts/Modern_UIManager.cs" Line="680" Column="17" />
+      <File FileName="Assets/MiddleGround/Resources/BingoAssets/Scripts/BingoTestPanel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiceGame2 3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AssetBundleRes" expanded="True" />
+              <Node name="MiddleGround" expanded="True">
+                <Node name="Editor" expanded="True" />
+                <Node name="Modern_Scripts" expanded="True">
+                  <Node name="Modern_UI_Panel" expanded="True">
+                    <Node name="Modern_PopPanel_GachaPanel.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="ParticleEffectForUGUI-main" expanded="True" />
+                <Node name="Resources" expanded="True">
+                  <Node name="BingoAssets" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                  <Node name="Modern_Prefabs" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppsFlyer PreferredExecutionTarget="2e52bf34-b3e3-4ced-af59-e4e99acfc05e" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yangpeng/Downloads/DiceGame2 3/Assets/MiddleGround/Resources/BingoAssets/Scripts/ABB_GetMoreTicketPanel.cs" relfile="Assets/MiddleGround/Resources/BingoAssets/Scripts/ABB_GetMoreTicketPanel.cs" line="18" column="1" />
+      <Breakpoint file="/Users/yangpeng/Downloads/DiceGame2 3/Assets/MiddleGround/Resources/BingoAssets/Scripts/Modern_SpinPhonePanel.cs" relfile="Assets/MiddleGround/Resources/BingoAssets/Scripts/Modern_SpinPhonePanel.cs" line="441" column="1" />
+      <Breakpoint file="/Users/yangpeng/Downloads/DiceGame2 3/Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_GamePanel_Scratch.cs" relfile="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_GamePanel_Scratch.cs" line="114" column="1" />
+      <Breakpoint file="/Users/yangpeng/Downloads/DiceGame2 3/Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_MenuBox.cs" relfile="Assets/MiddleGround/Modern_Scripts/Modern_UI_Panel/Modern_PopPanel_MenuBox.cs" line="155" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{81ABA0DE-8999-9E70-8F72-E0D4D2CED2BF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Cheese_Panel.cs">
+    <Files>
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_Manager.cs" Line="24" Column="62" />
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_SaveManager.cs" />
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_SaveManagerAni.cs" />
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_UIManager.cs" />
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Farm_Pop_GuidePanel.cs" />
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Farm_PopPanel_LuckyCup.cs" />
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Farm_MenuPanel.cs" />
+      <File FileName="Assets/MiddleGround/Resources/BingoAssets/Scripts/Farm_GamePanel.cs" />
+      <File FileName="Assets/MiddleGround/Resources/BingoAssets/Scripts/Farm_PartyBingoPanel.cs" />
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_AudioManager.cs" />
+      <File FileName="Assets/MiddleGround/Resources/BingoAssets/Scripts/BingoNumCard.cs" />
+      <File FileName="Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Cheese_Panel.cs" Line="239" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiceGame2 3 3" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="AppsFlyer" expanded="True">
+                <Node name="Editor" expanded="True" />
+              </Node>
+              <Node name="Demigiant" expanded="True">
+                <Node name="DOTween" expanded="True">
+                  <Node name="Modules" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Materials" expanded="True" />
+              <Node name="MiddleGround" expanded="True">
+                <Node name="Editor" expanded="True" />
+                <Node name="Farm_Scripts" expanded="True">
+                  <Node name="Farm_ADS" expanded="True" />
+                  <Node name="Farm_GameConfig" expanded="True" />
+                  <Node name="Farm_UI_Panel" expanded="True" />
+                </Node>
+                <Node name="Resources" expanded="True">
+                  <Node name="Another_Prefabs" expanded="True">
+                    <Node name="Dice_3D" expanded="True" />
+                  </Node>
+                  <Node name="BingoAssets" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                  <Node name="MG_Prefabs" expanded="True">
+                    <Node name="MG_GamePanels" expanded="True">
+                      <Node name="倒水动画" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Notification" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppsFlyer PreferredExecutionTarget="9d718db0-5891-4468-afe8-245cc99b07aa" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yangpeng/Downloads/DiceGame2 3 3/Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Farm_PopPanel_TermOfUse.cs" relfile="Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Farm_PopPanel_TermOfUse.cs" line="87" column="1" />
+      <Breakpoint file="/Users/yangpeng/Downloads/DiceGame2 3 3/Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Farm_PopPanel_Cashout.cs" relfile="Assets/MiddleGround/Farm_Scripts/Farm_UI_Panel/Farm_PopPanel_Cashout.cs" line="97" column="1" />
+      <Breakpoint file="/Users/yangpeng/Downloads/DiceGame2 3 3/Assets/MiddleGround/Resources/BingoAssets/Scripts/Farm_SpinPhonePanel.cs" relfile="Assets/MiddleGround/Resources/BingoAssets/Scripts/Farm_SpinPhonePanel.cs" line="464" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

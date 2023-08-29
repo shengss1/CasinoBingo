@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{26B89F15-FB8F-CFF7-5EFB-00339E921F37}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MiddleGround/MG_Scripts/MG_Manager.cs">
+    <Files>
+      <File FileName="Assets/MiddleGround/MG_Scripts/MG_Manager.cs" Line="599" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiceGame2" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="MiddleGround" expanded="True">
+                <Node name="MG_Scripts" expanded="True">
+                  <Node name="MG_ADS" expanded="True" />
+                  <Node name="MG_GameConfig" expanded="True" />
+                  <Node name="MG_UI_Panel" expanded="True" />
+                </Node>
+                <Node name="Resources" expanded="True">
+                  <Node name="BingoAssets" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppsFlyer PreferredExecutionTarget="80326e05-1f81-41db-86c2-b8f660f8330a" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
